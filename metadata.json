@@ -1,0 +1,5 @@
+{
+  "name": "Music Video Generator",
+  "description": "Create music videos from images using AI.",
+  "requestFramePermissions": []
+}
